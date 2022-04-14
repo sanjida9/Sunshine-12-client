@@ -123,7 +123,9 @@ const Home = () => {
 
       <div className="container">
         <div className="review-block">
-          <h1 className="text-center text-blue fs-1">Our Reviws</h1>
+          <h1 className="fw-bold fs-1 text-center text-blue mt-3">
+            Our Reviews
+          </h1>
           {reviews.map((review) => (
             <div className="row">
               <div className="col-sm-3">
@@ -134,7 +136,7 @@ const Home = () => {
                   alt=""
                 />
               </div>
-              <div className="col-sm-9">
+              <div className="col-sm-9 p-4">
                 <Rating
                   className="text-warning"
                   readonly

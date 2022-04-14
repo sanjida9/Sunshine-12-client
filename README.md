@@ -1,10 +1,10 @@
 # Pearls
 
-## Live Website Link [Click here]()
+## Live Website Link [Click here](https://niche-website-5c46f.web.app/)
 
 ## Description
 
-## We guarantee that all of our watches for sale online are authentic. Every earring is guaranteed to be from one of our 100% authorized dealers or wholesalers. Each brand new earring comes with our in-house warranty. We know that finding the right watch takes time.
+## We guarantee that all of our watches for sale online are authentic. Every earring set is guaranteed to be from one of our 100% authorized dealers or wholesalers. Each brand new earring comes with our in-house warranty. We know that finding the right watch takes time.
 
 ### It's a website which is about selling different kind of earring
 
